@@ -1,0 +1,9 @@
+.idea
+.git
+.vscode
+dist
+build
+node_modules
+.DS_Store
+__mocks__
+public/fonticons.js
